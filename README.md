@@ -1,2 +1,2 @@
 # hello-world
-First repository
+This is the edited copy of README from the readme-edits branch
